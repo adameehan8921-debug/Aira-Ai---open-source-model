@@ -7,7 +7,7 @@ from peft import PeftModel
 # 🔐 Encoded model names
 # =========================
 base_model_enc = "ZmFjZWJvb2svb3B0LTEyNW0="
-adapter_enc = "86921025473783365513959718341552464233"
+adapter_enc = "QWRhbWhlcmUvYWlyYS1haQ=="
 
 # Decode
 base_model = base64.b64decode(base_model_enc).decode()

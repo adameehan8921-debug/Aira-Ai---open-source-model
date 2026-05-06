@@ -29,7 +29,7 @@ It is designed for simple local chat, experimentation, and learning how custom A
 
 Clone the repository:
 
-git clone https://github.com/your-username/aira-ai.git
+git clone https://github.com/adameehan8921-debug/Aira-Ai---open-source-model
 cd aira-ai
 
 Install dependencies:
